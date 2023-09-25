@@ -1,4 +1,6 @@
-# <img src="https://mma.prnewswire.com/media/513462/Instacart_Logo.jpg?p=facebook" alt="Instacart Logo" width="200" /> Data analysis with Python3
+# Python project
+
+## <img src="https://mma.prnewswire.com/media/513462/Instacart_Logo.jpg?p=facebook" alt="Instacart Logo" width="200" /> Data analysis with Python3
 Data analysis on an existing online grocery store, in order to gain business insights.
 
 ## Overview

@@ -1,5 +1,5 @@
-# Python_Instacart               <img src="https://mma.prnewswire.com/media/513462/Instacart_Logo.jpg?p=facebook" alt="Instacart Logo" width="200" />
-Data analysis on an existing online grocery store, Instacart, in order to gain business insights.
+# <img src="https://mma.prnewswire.com/media/513462/Instacart_Logo.jpg?p=facebook" alt="Instacart Logo" width="200" /> Data analysis with Python3
+Data analysis on an existing online grocery store, in order to gain business insights.
 
 ## Overview
 Instacart operates through an app and has good sales already, but they would like to uncover more information about their sales patterns. 

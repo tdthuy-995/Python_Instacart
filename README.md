@@ -18,8 +18,9 @@ fictional dataset due to data privacy:
 - customers
 
 ## Tools
-- Jupyter Notebook
 - Excel
+- Jupyter Notebook (Libraries used: Panda, numpy, matploblib)
+
 
 ## Deliverable
 Excel report including Flowchart
